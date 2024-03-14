@@ -1,0 +1,2 @@
+FROM ubuntu
+RUN git clone https://github.com/PauloVictorMateus/data-list-rocketseat
